@@ -1,0 +1,3 @@
+tags:
+  # Pixel baselines rendered on Windows; see test/goldens/screens_golden_test.dart.
+  golden:
