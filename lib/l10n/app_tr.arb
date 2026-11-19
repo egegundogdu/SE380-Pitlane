@@ -1,0 +1,915 @@
+{
+  "@@locale": "tr",
+  "appName": "Garaj",
+  "overview": "Özet",
+  "history": "Geçmiş",
+  "expenses": "Masraflar",
+  "myVehicle": "Aracım",
+  "save": "Kaydet",
+  "cancel": "Vazgeç",
+  "addVehicle": "Araç ekle",
+  "scanReceipt": "Fiş tara",
+  "receiptPrivacy": "Garaj fiş fotoğrafını sunucusuna yüklemez.",
+  "offline": "Çevrimdışı",
+  "maintenanceInfoRequired": "Bakım bilgisi gerekli",
+  "uiYerelOnizlemeBulutHesabinaBagliDegil": "Yerel önizleme · bulut hesabına bağlı değil",
+  "uiEsitleniyor": "Eşitleniyor…",
+  "uiKayitGonderilmeyiBekliyor": "{p0} kayıt gönderilmeyi bekliyor",
+  "@uiKayitGonderilmeyiBekliyor": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiCevrimdisiSonEsitleme": "Çevrimdışı · son eşitleme {p0}",
+  "@uiCevrimdisiSonEsitleme": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiYeniKayitEkle": "Yeni kayıt ekle",
+  "uiKm": "{p0} km",
+  "@uiKm": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBilgiYok": "Bilgi yok",
+  "uiText": "{p0} {p1} {p2}",
+  "@uiText": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      }
+    }
+  },
+  "uiToplamHarcama": "Toplam harcama {p0}. {p1}",
+  "@uiToplamHarcama": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiToplamHarcama2": "TOPLAM HARCAMA",
+  "uiAracSilueti": "Araç silueti",
+  "uiSil": "Sil",
+  "uiYeniKayit": "Yeni kayıt",
+  "uiAracinlaIlgiliHerSeyBirYerde": "Aracınla ilgili her şey bir yerde.",
+  "uiFotograftanYakitBilgileriniOku": "Fotoğraftan yakıt bilgilerini oku",
+  "uiYakitEkle": "Yakıt ekle",
+  "uiElleYakitKaydiOlustur": "Elle yakıt kaydı oluştur",
+  "uiMasrafEkle": "Masraf ekle",
+  "uiSigortaVergiVeDigerGiderler": "Sigorta, vergi ve diğer giderler",
+  "uiBakimEkle": "Bakım ekle",
+  "uiYapilanIslemleriVeParcalariKaydet": "Yapılan işlemleri ve parçaları kaydet",
+  "uiKmGuncelle": "Km güncelle",
+  "uiGuncelGostergeBilgisiniGir": "Güncel gösterge bilgisini gir",
+  "uiYakitTuru": "Yakıt türü",
+  "uiBirimFiyat": "Birim fiyat",
+  "uiIstasyon": "İstasyon",
+  "uiYakitFisiniTara": "Yakıt fişini tara",
+  "uiBirFotografTumDetaylar": "BİR FOTOĞRAF. TÜM DETAYLAR.",
+  "uiFisiniKaydaDonustur": "Fişini kayda dönüştür.",
+  "uiFisiDuzBirZemineKoyTarih": "Fişi düz bir zemine koy. Tarih, litre ve tutarın kadrajda olduğundan emin ol.",
+  "uiFisTelefondaOkunuyor": "Fiş telefonda okunuyor…",
+  "uiYakitFisiniCerceveyeAl": "Yakıt fişini çerçeveye al",
+  "uiKameraKirpKontrolEtKaydet": "Kamera → kırp → kontrol et → kaydet",
+  "uiFotografCek": "Fotoğraf çek",
+  "uiGaleridenSec": "Galeriden seç",
+  "uiFissizElleYakitEkle": "Fişsiz, elle yakıt ekle",
+  "uiGarajFisFotografiniSunucusunaYuklemezOkuma": "Garaj fiş fotoğrafını sunucusuna yüklemez. Okuma tamamen telefonda yapılır.",
+  "uiText2": "{p0} {p1}",
+  "@uiText2": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiText3": "{p0} · {p1}",
+  "@uiText3": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiGarajinSeniBekliyor": "Garajın seni bekliyor.",
+  "uiIlkAraciniEkleYakitiniBakiminiVe": "İlk aracını ekle; yakıtını, bakımını ve masraflarını tek yerden takip et.",
+  "uiIlkAracimiEkle": "İlk aracımı ekle",
+  "uiGarajinaHosGeldin": "Garajına hoş geldin.",
+  "uiGaraj": "GARAJ",
+  "uiHerSeyYolundaMi": "Her şey yolunda mı?",
+  "uiYolaHazirOl": "YOLA HAZIR OL",
+  "uiTumUyarilar": "Tüm uyarılar",
+  "uiText4": "{p0}",
+  "@uiText4": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBilgiGerekli": "Bilgi gerekli",
+  "uiGun": "{p0} gün",
+  "@uiGun": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBakimPlani": "BAKIM PLANI",
+  "uiBakimZamaniGecti": "BAKIM ZAMANI GEÇTİ",
+  "uiSonrakiBakima": "SONRAKİ BAKIMA",
+  "uiSonBakiminiEkleyerekTakibeBasla": "Son bakımını ekleyerek takibe başla.",
+  "uiSonBakimiEkle": "Son bakımı ekle",
+  "uiBakimDurumu": "Bakım durumu: {p0}",
+  "@uiBakimDurumu": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiGuncelKm": "GÜNCEL KM",
+  "uiBeyan": "{p0} · beyan",
+  "@uiBeyan": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiSonBakim": "SON BAKIM",
+  "uiKilometreBilinmiyor": "Kilometre bilinmiyor",
+  "uiSonrakiBakim": "SONRAKİ BAKIM",
+  "uiTakvimTakibi": "Takvim takibi",
+  "uiUyarilarVeEksikler": "Uyarılar ve eksikler",
+  "uiTumu": "Tümü",
+  "uiSuAnAcikBirUyarinYok": "Şu an açık bir uyarın yok.",
+  "uiSonYakitDuraklarin": "Son yakıt durakların",
+  "uiHaritayiAc": "Haritayı aç",
+  "uiIlkDuraginiKaydet": "İlk durağını kaydet.",
+  "uiYakitAldiginSon5FarkliIstasyon": "Yakıt aldığın son 5 farklı istasyon burada görünecek.",
+  "uiFislerinBuTelefondaKayitlarinGuvende": "Fişlerin bu telefonda. Kayıtların güvende.",
+  "uiNormal": "Normal",
+  "uiYaklasiyor": "Yaklaşıyor",
+  "uiGecikti": "Gecikti",
+  "uiHerBakiminBirKaydi": "Her bakımın bir kaydı.",
+  "uiBakimGecmisi": "BAKIM GEÇMİŞİ",
+  "uiBakimGecmisinBuradaBasliyor": "Bakım geçmişin burada başlıyor.",
+  "uiYapilanIslemleriDegisenParcalariVeKilometreyi": "Yapılan işlemleri, değişen parçaları ve kilometreyi kaydet.",
+  "uiDuzenlemekIcinBirBakimKaydinaDokun": "Düzenlemek için bir bakım kaydına dokun.",
+  "uiYolunSanaMaliyeti": "Yolun sana maliyeti.",
+  "uiMasraflar": "MASRAFLAR",
+  "uiHafta": "Hafta",
+  "uiAy": "Ay",
+  "uiYil": "Yıl",
+  "uiOncekiDonem": "Önceki dönem",
+  "uiSonrakiDonem": "Sonraki dönem",
+  "uiBuDonemdeHenuzBirHarcamaYok": "Bu dönemde henüz bir harcama yok.",
+  "uiText5": "%{p0}",
+  "@uiText5": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiSon6DonemeBakis": "Son 6 döneme bakış",
+  "uiDetayliRaporuAc": "Detaylı raporu aç",
+  "uiSonKayitlar": "Son kayıtlar",
+  "uiIlkMasrafiniEkle": "İlk masrafını ekle.",
+  "uiYakitVeBakimKayitlarinDaOtomatik": "Yakıt ve bakım kayıtların da otomatik olarak buraya yansır.",
+  "uiText6": "{p0} – {p1}",
+  "@uiText6": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiSonAltiDoneminHarcamalari": "Son altı dönemin harcamaları: {p0}",
+  "@uiSonAltiDoneminHarcamalari": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiDetayliRapor": "Detaylı rapor",
+  "uiKayitlardaAra": "Kayıtlarda ara",
+  "uiYakitOzeti": "Yakıt özeti",
+  "uiL": "{p0} L",
+  "@uiL": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiL2": "{p0} / L",
+  "@uiL2": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiIslemListesi": "İşlem listesi",
+  "uiKayitBulunamadi": "Kayıt bulunamadı.",
+  "uiDonemVeyaFiltreyiDegistirerekTekrarBakabilirsin": "Dönem veya filtreyi değiştirerek tekrar bakabilirsin.",
+  "uiSanaAitBirGaraj": "Sana ait bir garaj.",
+  "uiAracim": "ARACIM",
+  "uiAyarlar": "Ayarlar",
+  "uiAracFotografiEkle": "Araç fotoğrafı ekle",
+  "uiAracFotografi": "{p0} {p1} araç fotoğrafı",
+  "@uiAracFotografi": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiAracBilgileriniDuzenle": "Araç bilgilerini düzenle",
+  "uiAracininDurumu": "Aracının durumu",
+  "uiBakimDurumu2": "Bakım durumu",
+  "uiMotorDurumu": "Motor durumu",
+  "uiMotorDurumunuGuncelle": "Motor durumunu güncelle",
+  "uiKontrolGerekli": "Kontrol gerekli",
+  "uiKullaniciBeyani": "Kullanıcı beyanı · {p0}",
+  "@uiKullaniciBeyani": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiYakitSeviyesi": "Yakıt seviyesi",
+  "uiYakitSeviyesiniGuncelle": "Yakıt seviyesini güncelle",
+  "uiGostergePanelindekiAnaYakitBeyan": "Gösterge panelindeki ana yakıt · beyan {p0}",
+  "@uiGostergePanelindekiAnaYakitBeyan": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBelgelerVeHatirlatmalar": "Belgeler ve hatırlatmalar",
+  "uiTrafikSigortasi": "Trafik sigortası",
+  "uiServisHatirlaticilari": "Servis hatırlatıcıları",
+  "uiKmGunOnce": "{p0} km / {p1} gün önce",
+  "@uiKmGunOnce": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiKilometreKayitlariVeDuzeltme": "Kilometre kayıtları ve düzeltme",
+  "uiEkspertizRaporlari": "Ekspertiz raporları",
+  "uiYukle": "Yükle",
+  "uiRaporunuGuvenleSakla": "Raporunu güvenle sakla.",
+  "uiGuncelEkspertizRaporunuPdfVeyaFotograf": "Güncel ekspertiz raporunu PDF veya fotoğraf olarak ekle.",
+  "uiRaporYukle": "Rapor yükle",
+  "uiEkspertizRaporu": "Ekspertiz raporu",
+  "uiText7": "{p0}{p1}",
+  "@uiText7": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiRaporuSil": "Raporu sil",
+  "uiRaporSilinsinMi": "Rapor silinsin mi?",
+  "uiBaskaBirAracEkle": "Başka bir araç ekle",
+  "uiGunGecti": "{p0} gün geçti",
+  "@uiGunGecti": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBuBilgiSeninBeyanindirUygulamaMotor": "Bu bilgi senin beyanındır. Uygulama motor teşhisi yapmaz.",
+  "uiNot": "Not",
+  "uiGostergePanelindekiAnaYakitSeviyesiniGir": "Gösterge panelindeki ana yakıt seviyesini gir.",
+  "uiUyarilarVeIhtiyaclar": "Uyarılar ve ihtiyaçlar",
+  "uiSorunEkle": "Sorun ekle",
+  "uiHerSeyTamam": "Her şey tamam.",
+  "uiAcikBirUyarinYok": "Açık bir uyarın yok.",
+  "uiIhtiyacSorunEkle": "İhtiyaç / sorun ekle",
+  "uiSorunuGiderdiysenCozulduOlarakIsaretleyebilirsin": "Sorunu giderdiysen çözüldü olarak işaretleyebilirsin.",
+  "uiKapat": "Kapat",
+  "uiCozuldu": "Çözüldü",
+  "uiL3": "{p0} · {p1} / L",
+  "@uiL3": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiIstasyonlarinaKonumEkle": "İstasyonlarına konum ekle",
+  "uiIstasyonunKonumuKayitli": "{p0} istasyonun konumu kayıtlı",
+  "@uiIstasyonunKonumuKayitli": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiYolTarifiIcinAsagidanBirIstasyon": "Yol tarifi için aşağıdan bir istasyon seç.",
+  "uiBuIstasyondaKonumYokYakitKaydini": "Bu istasyonda konum yok. Yakıt kaydını düzenleyerek ekleyebilirsin.",
+  "uiHaritaUygulamasiAcilamadi": "Harita uygulaması açılamadı.",
+  "uiKilometreKayitlari": "Kilometre kayıtları",
+  "uiYakitVeBakimOkumalariniKendiKaydinda": "Yakıt ve bakım okumalarını kendi kaydında düzenle. Yanlış bir manuel okumayı silip doğrusunu ekleyebilirsin.",
+  "uiYeniOkumaEkle": "Yeni okuma ekle",
+  "uiManuelOkumayiSil": "Manuel okumayı sil",
+  "uiAracinlaIlgiliHerSeyTekYerde": "Aracınla ilgili her şey, tek yerde.",
+  "uiHesapVeEsitleme": "Hesap ve eşitleme",
+  "uiSonEsitleme": "Son eşitleme",
+  "uiHenuzEsitlenmedi": "Henüz eşitlenmedi",
+  "uiYenile": "Yenile",
+  "uiBekleyenKayitlar": "Bekleyen kayıtlar ({p0})",
+  "@uiBekleyenKayitlar": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBaglantidaOtomatikTekrarDenenir": "Bağlantıda otomatik tekrar denenir.",
+  "uiSimdiTekrarDene": "Şimdi tekrar dene",
+  "uiKayitKontrolGerektiriyor": "Kayıt kontrol gerektiriyor",
+  "uiGonderilmeyiBekliyor": "Gönderilmeyi bekliyor",
+  "uiBaglantiKuruldugundaOtomatikGonderilir": "Bağlantı kurulduğunda otomatik gönderilir.",
+  "uiTercihler": "Tercihler",
+  "uiDil": "Dil",
+  "uiTurkce": "Türkçe",
+  "uiGorunum": "Görünüm",
+  "uiKoyu": "Koyu",
+  "uiBildirimEsikleri": "Bildirim eşikleri",
+  "uiKmGun": "{p0} km / {p1} gün",
+  "@uiKmGun": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiYerelFisArsivi": "Yerel fiş arşivi",
+  "uiFislerinYalnizcaBuTelefonda": "Fişlerin yalnızca bu telefonda.",
+  "uiTelefonDegisirseVeyaUygulamaSilinirseFis": "Telefon değişirse veya uygulama silinirse fiş fotoğrafları geri gelmez. Onaylanmış yakıt ve masraf kayıtların buluttan geri gelir.",
+  "uiCikisYapilsinMi": "Çıkış yapılsın mı?",
+  "uiBuHesabaAitYerelKayitlaraYeniden": "Bu hesaba ait yerel kayıtlara yeniden giriş yapana kadar erişilemez.",
+  "uiCikisYap": "Çıkış yap",
+  "uiHesabinVeVerilerinSilinsinMi": "Hesabın ve verilerin silinsin mi?",
+  "uiBuluttakiAraclarinKayitlarinVeBelgelerinSilinmesi": "Buluttaki araçların, kayıtların ve belgelerin silinmesi başlatılır. Bu telefondaki veriler temizlenir. Bu işlem internet gerektirir ve geri alınamaz.",
+  "uiHesabimiSil": "Hesabımı sil",
+  "uiGaraj100": "Garaj · 0.1.0",
+  "uiBakimHatirlatmaEsikleri": "Bakım hatırlatma eşikleri",
+  "uiKacKmOnce": "Kaç km önce?",
+  "uiKm2": "km",
+  "uiKacGunOnce": "Kaç gün önce?",
+  "uiGun2": "gün",
+  "uiGecerliEsiklerGirin": "Geçerli eşikler girin.",
+  "uiEkspertizRaporuEkle": "Ekspertiz raporu ekle",
+  "uiPdfJpegVeyaPngEnFazla": "PDF, JPEG veya PNG · en fazla 20 MB",
+  "uiEkspertizFirmasiIstegeBagli": "Ekspertiz firması (isteğe bağlı)",
+  "uiRaporKilometresiIstegeBagli": "Rapor kilometresi (isteğe bağlı)",
+  "uiDosyayiSec": "Dosyayı seç",
+  "uiArsivBilgisiYukleniyor": "Arşiv bilgisi yükleniyor…",
+  "uiFisFotografi": "{p0} fiş fotoğrafı",
+  "@uiFisFotografi": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiKb": "{p0} KB",
+  "@uiKb": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiMb": "{p0} MB",
+  "@uiMb": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiYerelFisFotograflariniTemizle": "Yerel fiş fotoğraflarını temizle",
+  "uiFisFotograflariSilinsinMi": "Fiş fotoğrafları silinsin mi?",
+  "uiBuTelefondakiFisGoruntuleriVeOkuma": "Bu telefondaki fiş görüntüleri ve okuma dökümleri silinir. Yakıt ve masraf kayıtların korunur.",
+  "uiBuKayitBaskaBirCihazdaDegismis": "Bu kayıt başka bir cihazda değişmiş olabilir.",
+  "uiBekleyenKayit": "Bekleyen kayıt",
+  "uiBuKayitHenuzBulutaGonderilmediBaglanti": "Bu kayıt henüz buluta gönderilmedi. Bağlantı kurulduğunda aynı işlem kimliğiyle yeniden gönderilir.",
+  "uiBekleyenIslemiKaldir": "Bekleyen işlemi kaldır",
+  "uiSonHLiGetir": "Son hâli getir",
+  "uiBenimkiniYineDeUygula": "Benimkini yine de uygula",
+  "uiTekrarDene": "Tekrar dene",
+  "uiBekleyenIslemKaldirilsinMi": "Bekleyen işlem kaldırılsın mı?",
+  "uiHenuzGonderilmemisBuDegisiklikSilinirBuluttaki": "Henüz gönderilmemiş bu değişiklik silinir. Buluttaki kayıt değiştirilmez.",
+  "uiBenzin": "Benzin",
+  "uiDizel": "Dizel",
+  "uiLpg": "LPG",
+  "uiElektrik": "Elektrik",
+  "uiYakit": "Yakıt",
+  "uiBakim": "Bakım",
+  "uiSigortaKasko": "Sigorta / Kasko",
+  "uiVergiMuayene": "Vergi / Muayene",
+  "uiOtoparkOtoyol": "Otopark / Otoyol",
+  "uiYikama": "Yıkama",
+  "uiCeza": "Ceza",
+  "uiDiger": "Diğer",
+  "uiPeriyodikBakim": "Periyodik bakım",
+  "uiYagVeFiltre": "Yağ ve filtre",
+  "uiMuayene": "Muayene",
+  "uiOnarim": "Onarım",
+  "uiLastik": "Lastik",
+  "uiAku": "Akü",
+  "uiFren": "Fren",
+  "uiKaydiSil": "Kaydı sil",
+  "uiBaglantiYoksaKayitGuvenleBekletilirVe": "Bağlantı yoksa kayıt güvenle bekletilir ve bağlantı geldiğinde gönderilir.",
+  "uiBuAlaniDoldurun": "Bu alanı doldurun",
+  "uiGecerliBirSayiGirin": "Geçerli bir sayı girin",
+  "uiText8": "{p0}: {p1}",
+  "@uiText8": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiGarajinaAracEkle": "Garajına araç ekle",
+  "uiAracBilgileri": "Araç bilgileri",
+  "uiHerYolculugunBirBaslangiciVar": "HER YOLCULUĞUN BİR BAŞLANGICI VAR",
+  "uiAraciniTaniyalim": "Aracını tanıyalım.",
+  "uiBilgilerinDahaSonraHerZamanDuzenlenebilir": "Bilgilerin daha sonra her zaman düzenlenebilir.",
+  "uiMarka": "Marka",
+  "uiModel": "Model",
+  "uiModelYili": "Model yılı",
+  "uiPlaka": "Plaka",
+  "uiMotorBilgisi": "Motor bilgisi",
+  "uiOrn16Tdi": "Örn. 1.6 TDI",
+  "uiRenk": "Renk",
+  "uiGuncelKilometre": "Güncel kilometre",
+  "uiBakimPlani2": "Bakım planı",
+  "uiBakimAraligi": "Bakım aralığı",
+  "uiZamanAraligi": "Zaman aralığı",
+  "uiSonBakimBilgileriniBiliyorum": "Son bakım bilgilerini biliyorum",
+  "uiBilmiyorsanBosBirakabilirsin": "Bilmiyorsan boş bırakabilirsin.",
+  "uiSonBakim2": "Son bakım",
+  "uiSonBakimKilometresi": "Son bakım kilometresi",
+  "uiBelgeTarihleri": "Belge tarihleri",
+  "uiKasko": "Kasko",
+  "uiYakitKaydi": "Yakıt kaydı",
+  "uiYakitKaydiniDuzenle": "Yakıt kaydını düzenle",
+  "uiFistenOkunanAlanlariKontrolEdipOnaylayin": "Fişten okunan alanları kontrol edip onaylayın.",
+  "uiTutarVeLitreSifirdanBuyukOlmali": "Tutar ve litre sıfırdan büyük olmalı.",
+  "uiOnceBirAracEkleyin": "Önce bir araç ekleyin.",
+  "uiOlasiTekrarKayit": "Olası tekrar kayıt",
+  "uiAyniGunBenzerTutarVeLitreyle": "Aynı gün benzer tutar ve litreyle bir kayıt var. Yine de kaydedilsin mi?",
+  "uiKontrolEt": "Kontrol et",
+  "uiYineDeKaydet": "Yine de kaydet",
+  "uiIstasyonIcinGecerliBirKonumNoktasi": "İstasyon için geçerli bir konum noktası seçin.",
+  "uiFisOkunduKaydetmedenOnceTumAlanlari": "Fiş okundu. Kaydetmeden önce tüm alanları kontrol et.",
+  "uiText9": "• {p0}",
+  "@uiText9": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiFistekiPlakaSeciliAracKaydetmedenOnce": "Fişteki plaka: {p0}. Seçili araç: {p1}. Kaydetmeden önce aracı kontrol et.",
+  "@uiFistekiPlakaSeciliAracKaydetmedenOnce": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiYakitTarihi": "Yakıt tarihi",
+  "uiYakitTutari": "Yakıt tutarı",
+  "uiMiktar": "Miktar",
+  "uiLitreFiyati": "Litre fiyatı",
+  "uiL4": "₺ / L",
+  "uiTutarLitreVeFiyatTutarli": "Tutar, litre ve fiyat tutarlı",
+  "uiTutarLitreVeFiyatiKontrolEt": "Tutar, litre ve fiyatı kontrol et",
+  "uiIstasyonSube": "İstasyon / şube",
+  "uiSonYakitAlimi": "Son yakıt alımı: {p0}",
+  "@uiSonYakitAlimi": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiIstasyonOnerisiSecimSende": "Öneriler yalnızca yardımcıdır; doğru şubeyi sen seç.",
+  "uiFisOkumaDogrulugu": "Fiş okuma doğruluğu (bu telefon)",
+  "uiHenuzOnaylanmisFisYok": "Henüz taranıp onaylanmış fiş yok.",
+  "uiLitre": "Litre",
+  "uiDogrulukSatiri": "Doğru %{p0} · emin okunan %{p1} · sessiz hata {p2}",
+  "@uiDogrulukSatiri": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      }
+    }
+  },
+  "uiDogrulukOzeti": "{p0} fiş · {p1} yüksek güvenli alan · sessiz hata üst sınırı %{p2}",
+  "@uiDogrulukOzeti": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      }
+    }
+  },
+  "uiDogrulukHedefKarsilaniyor": "%2 sessiz hata hedefi bu örneklemle karşılanıyor.",
+  "uiDogrulukIcinDahaFazlaFis": "%2 hedefini göstermek için daha fazla onaylı fiş gerekiyor (en az 150 yüksek güvenli alan).",
+  "uiDogrulukNotu": "Kaydettiğin değerler doğru kabul edilir. Ölçüm yalnızca bu telefonda yapılır ve hiçbir yere gönderilmez.",
+  "uiOkumaSorununuBildir": "Okuma sorununu bildir",
+  "uiOkumaRaporuAciklama": "Yalnızca aşağıdaki metin paylaşılır. Fotoğraf, hesap bilgisi ve kaydettiğin değerler eklenmez; uzun numaralar ve plaka gizlenir.",
+  "uiPaylas": "Paylaş",
+  "uiIstasyonAdresiIstegeBagli": "İstasyon adresi (isteğe bağlı)",
+  "uiIstasyonKonumunuSec": "İstasyon konumunu seç",
+  "uiKonumSecildiDegistir": "Konum seçildi · değiştir",
+  "uiKonumNoktasiEkle": "Konum noktası ekle",
+  "uiNoktaYalnizcaSenOnaylarsanKaydedilir": "Nokta yalnızca sen onaylarsan kaydedilir.",
+  "uiEnlem": "Enlem",
+  "uiBoylam": "Boylam",
+  "uiKilometreIstegeBagli": "Kilometre (isteğe bağlı)",
+  "uiTamDepo": "Tam depo",
+  "uiAractakiYakitSeviyesiniDegistirmez": "Araçtaki yakıt seviyesini değiştirmez.",
+  "uiNotIstegeBagli": "Not (isteğe bağlı)",
+  "uiOkunanBilgileriKontrolEttimVeOnayliyorum": "Okunan bilgileri kontrol ettim ve onaylıyorum.",
+  "uiGarajFisFotografiniSunucusunaYuklemezFotograf": "Garaj fiş fotoğrafını sunucusuna yüklemez. Fotoğraf yalnızca bu telefonda saklanır.",
+  "uiBakimiDuzenle": "Bakımı düzenle",
+  "uiParcaTutarlariFaturaToplaminiAsiyorTutarlari": "Parça tutarları fatura toplamını aşıyor. Tutarları kontrol edin.",
+  "uiBakimTuru": "Bakım türü",
+  "uiBaslik": "Başlık",
+  "uiBakimTarihi": "Bakım tarihi",
+  "uiServisUsta": "Servis / usta",
+  "uiDegisenParcalar": "Değişen parçalar",
+  "uiMotorYagi": "Motor yağı",
+  "uiYagFiltresi": "Yağ filtresi",
+  "uiHavaFiltresi": "Hava filtresi",
+  "uiPolenFiltresi": "Polen filtresi",
+  "uiFrenBalatasi": "Fren balatası",
+  "uiParcayiKaldir": "Parçayı kaldır",
+  "uiOzelParcaAdi": "Özel parça adı",
+  "uiParcaTutariIstegeBagli": "Parça tutarı (isteğe bağlı)",
+  "uiParcayiEkle": "Parçayı ekle",
+  "uiOdeme": "Ödeme",
+  "uiFaturaToplami": "Fatura toplamı",
+  "uiParcaTutarlariToplamMasrafaYenidenEklenmez": "Parça tutarları toplam masrafa yeniden eklenmez.",
+  "uiPeriyodikBakimSayaciniSifirla": "Periyodik bakım sayacını sıfırla",
+  "uiMasrafiDuzenle": "Masrafı düzenle",
+  "uiSifirdanBuyukBirTutarGirin": "Sıfırdan büyük bir tutar girin.",
+  "uiKategori": "Kategori",
+  "uiAciklama": "Açıklama",
+  "uiOrnYillikTrafikSigortasi": "Örn. yıllık trafik sigortası",
+  "uiTutar": "Tutar",
+  "uiTarih": "Tarih",
+  "uiYakitVeBakimMasraflariKendiKayitlarindan": "Yakıt ve bakım masrafları kendi kayıtlarından otomatik gelir.",
+  "uiKilometreyiGuncelle": "Kilometreyi güncelle",
+  "uiGostergePanelindekiKilometre": "Gösterge panelindeki kilometre",
+  "uiOkumaTarihi": "Okuma tarihi",
+  "uiGecmisTarihliOkumalarGuncelKilometreniDusurmez": "Geçmiş tarihli okumalar güncel kilometreni düşürmez. Çelişen değerler kaydedilmeden önce kontrol edilir.",
+  "uiSikKullanilanlar": "Sık kullanılanlar",
+  "uiSilecekSuyuAz": "Silecek suyu az",
+  "uiLastikBasinci": "Lastik basıncı",
+  "uiYagSeviyesi": "Yağ seviyesi",
+  "uiArizaLambasi": "Arıza lambası",
+  "uiSogutmaSuyu": "Soğutma suyu",
+  "uiIhtiyacVeyaSorun": "İhtiyaç veya sorun",
+  "uiOnem": "Önem",
+  "uiBilgi": "Bilgi",
+  "uiOncelikli": "Öncelikli",
+  "uiSorunCozulduOlarakIsaretleyeneKadarOzet": "Sorun, çözüldü olarak işaretleyene kadar Özet ekranında görünür.",
+  "uiTelefonunKonumunuAcipTekrarDene": "Telefonun konumunu açıp tekrar dene.",
+  "uiKonumIzniVerilmediHaritadanVeyaKoordinatla": "Konum izni verilmedi. Haritadan veya koordinatla seçim yapabilirsin.",
+  "uiAdresBulunamadiKoordinatGirebilirsin": "Adres bulunamadı. Koordinat girebilirsin.",
+  "uiAdresBulunamadiHaritadanVeyaKoordinatlaSecim": "Adres bulunamadı. Haritadan veya koordinatla seçim yapabilirsin.",
+  "uiIstasyonKonumunuOnayla": "İstasyon konumunu onayla",
+  "uiYalnizcaSecipOnayladiginNoktaIstasyonaEklenir": "Yalnızca seçip onayladığın nokta istasyona eklenir. Fişi başka bir yerde çektiysen şu anki konumunu kullanma.",
+  "uiSuAnIstasyondayim": "Şu an istasyondayım",
+  "uiIstasyonAdresi": "İstasyon adresi",
+  "uiAdresiBul": "Adresi bul",
+  "uiHenuzBirNoktaSecilmedi": "Henüz bir nokta seçilmedi.",
+  "uiText10": "{p0}, {p1}",
+  "@uiText10": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiHaritaBaglantisiOlmadanKonumunuAlabilirVeya": "Harita bağlantısı olmadan konumunu alabilir veya koordinat girebilirsin.",
+  "uiGecerliBirKonumSec": "Geçerli bir konum seç.",
+  "uiBuNoktayiOnayla": "Bu noktayı onayla",
+  "uiDeleteRecordQuestion": "Kaydı sil?",
+  "uiDeleteIrreversible": "Bu işlem geri alınamaz.",
+  "uiNotYet": "henüz yok",
+  "uiRead": "Okundu",
+  "uiSuggestion": "Öneri",
+  "uiCalculated": "Hesaplandı",
+  "uiNotFound": "Bulunamadı",
+  "uiManual": "Manuel",
+  "uiDocumentScanner": "Belge tarayıcı",
+  "uiViewReceipt": "Bu telefondaki fişi görüntüle",
+  "uiReceiptAbsent": "Bu kayıt için bu telefonda fiş fotoğrafı yok.",
+  "uiReceiptPhoto": "Yakıt fişi",
+  "uiText11": "—",
+  "uiMotorBilgisiEklenmedi": "Motor bilgisi eklenmedi",
+  "uiText12": " · {p0}",
+  "@uiText12": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiKaydediliyor": "Kaydediliyor…",
+  "uiTarihEkle": "Tarih ekle",
+  "uiGecerliBirEPostaAdresiGirin": "Geçerli bir e-posta adresi girin.",
+  "uiBaglantiKurulamadiTekrarDeneyin": "Bağlantı kurulamadı. Tekrar deneyin.",
+  "uiEPostadaki6HaneliKoduGirin": "E-postadaki 6 haneli kodu girin.",
+  "uiKodDogrulanamadiTekrarDeneyin": "Kod doğrulanamadı. Tekrar deneyin.",
+  "uiAraciniTaniBakiminiVeHarcamalariniTakip": "Aracını tanı.\nBakımını ve harcamalarını takip et.",
+  "uiEPostaniKontrolEt": "E-postanı kontrol et",
+  "uiGarajinaGirisYap": "Garajına giriş yap",
+  "uiEPostaAdresi": "E-posta adresi",
+  "ui6HaneliKod": "6 haneli kod",
+  "uiLutfenBekleyin": "Lütfen bekleyin",
+  "uiGirisYap": "Giriş yap",
+  "uiGirisKoduGonder": "Giriş kodu gönder",
+  "uiEPostaAdresiniDegistir": "E-posta adresini değiştir",
+  "uiBulutBaglantisiHenuzYapilandirilmadi": "Bulut bağlantısı henüz yapılandırılmadı.",
+  "uiSupabaseProjeBilgileriEklendigindeEPosta": "Supabase proje bilgileri eklendiğinde e-posta ile giriş ve bulut yedekleme açılacak.",
+  "uiYerelOnizlemeyiAc": "Yerel önizlemeyi aç",
+  "uiGelistirmeOnizlemesiVerilerYalnizcaBuCihazda": "Geliştirme önizlemesi · Veriler yalnızca bu cihazda tutulur.",
+  "uiFisFotograflarinCihazindaKalir": "Fiş fotoğrafların cihazında kalır.",
+  "uiLicenses": "Lisanslar",
+  "uiFistekiPlakaBaskaAracaAit": "Fişteki plaka {p0}, garajındaki {p1} aracına ait. Seçili araç: {p2}.",
+  "@uiFistekiPlakaBaskaAracaAit": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBuAracaKaydet": "Bu araca kaydet",
+  "uiKayitBuAracaEklenecek": "Bu kayıt {p0} ({p1}) aracına eklenecek. Uygulamada seçili araç değişmez.",
+  "@uiKayitBuAracaEklenecek": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiSeciliAracaKaydet": "Seçili araca kaydet",
+  "uiPlakaEtiketi": "Plaka {p0}",
+  "@uiPlakaEtiketi": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiMasraflarSekmesi": "Masraflar",
+  "uiAracDegistir": "Aracı değiştir",
+  "uiGarajim": "Garajım",
+  "uiHerSeyYolunda": "Her şey yolunda",
+  "uiKonuDikkatIstiyor": "{p0} konu dikkat istiyor",
+  "@uiKonuDikkatIstiyor": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiGundem": "Gündem",
+  "uiGundemBos": "Gündemde bir şey yok",
+  "uiGundemBosAciklama": "Belge tarihleri yaklaştığında ve uyarılar çıktığında burada görünür.",
+  "uiBuAy": "Bu ay",
+  "uiGuncelle": "Güncelle",
+  "uiSonrakiBakimEtiketi": "Sonraki bakım",
+  "uiBakimaKalan": "Bakıma kalan",
+  "uiBakimGecti": "Bakım geçti",
+  "uiHangisiOnceGelirse": "{p0} ya da {p1}, hangisi önce gelirse.",
+  "@uiHangisiOnceGelirse": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiSonrakiBakimTarihi": "Sonraki bakım: {p0}.",
+  "@uiSonrakiBakimTarihi": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiKilometre": "Kilometre",
+  "uiSure": "Süre",
+  "uiAralik": "{p0} → {p1}",
+  "@uiAralik": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBakimOzetiSemantik": "{p0}: {p1}. {p2} Durum: {p3}.",
+  "@uiBakimOzetiSemantik": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      },
+      "p2": {
+        "type": "String"
+      },
+      "p3": {
+        "type": "String"
+      }
+    }
+  },
+  "uiHarcama": "Harcama",
+  "uiGecenAy": "Geçen ay {p0}",
+  "@uiGecenAy": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiBuAyYakitYok": "Bu ay yakıt alınmadı",
+  "uiOrtalamaFiyat": "Ort. {p0} / L",
+  "@uiOrtalamaFiyat": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiKayitToplam": "{p0} kayıt · toplam {p1}",
+  "@uiKayitToplam": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiSayaciSifirladi": "Bakım sayacını sıfırladı",
+  "uiToplam": "Toplam",
+  "uiOncekiDonemToplami": "Önceki dönem {p0}",
+  "@uiOncekiDonemToplami": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  },
+  "uiKategoriler": "Kategoriler",
+  "uiOrtalamaLitreFiyati": "Ortalama",
+  "uiMasraf": "Masraf",
+  "uiHemenIlgilen": "Hemen ilgilen",
+  "uiYakindaIlgilen": "Yakında ilgilen",
+  "uiBilgiNotlari": "Bilgi",
+  "uiSistem": "Sistem",
+  "uiAcik": "Açık",
+  "uiGorunumAciklama": "Sistem, telefonun açık ya da koyu ayarını izler. Gündüz pompa başında açık tema daha kolay okunur.",
+  "uiBildirimler": "Bildirimler",
+  "uiHakkinda": "Hakkında",
+  "uiMotorVeKilometre": "Motor ve kilometre",
+  "uiGirisFaydaHatirlatma": "Bakım, muayene ve sigorta tarihlerini zamanında hatırlatır.",
+  "uiGirisFaydaFis": "Fişi okutur; yakıtı ve masrafı kendisi ayırır.",
+  "uiHenuzGirilmedi": "Henüz girilmedi · dokunarak ekle",
+  "uiGirisSlogan": "Aracının bakımı, yakıtı ve masrafları tek defterde.",
+  "uiHesapDegistiFormuYenidenAc": "Hesap değişti. Bu formu kendi hesabında yeniden aç.",
+  "uiIsaretliAlanlariKontrolEt": "Kırmızıyla işaretli alanları kontrol et.",
+  "uiGecerliBirTamSayiGirin": "Geçerli bir tam sayı girin",
+  "uiDegerAraligi": "{p0} ile {p1} arasında olmalı",
+  "@uiDegerAraligi": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      },
+      "p1": {
+        "type": "String"
+      }
+    }
+  },
+  "uiGecerliBirKilometreGirin": "Geçerli bir kilometre girin",
+  "uiKayitSunucudaKabulEdilmedi": "Kayıt sunucuda kabul edilmedi",
+  "uiKayitGonderilemedi": "Kayıt bu cihazdan gönderilemedi",
+  "uiKonumAlinamadi": "Konum alınamadı. Açık bir alanda tekrar dene ya da haritadan seç.",
+  "uiFistenBilgiOkunamadi": "Fişten bilgi okunamadı. Alanları elle doldur ya da fişi yeniden çek.",
+  "uiFisiKirp": "Fişi kırp",
+  "uiTamam": "Tamam",
+  "uiBekleyenDegisiklikGosteriliyor": "Bu kaydın henüz gönderilmemiş bir değişikliği var; form son hâlini gösteriyor.",
+  "uiUzunSuredirBekleyenKayit": "Uzun süredir bekleyen kayıt",
+  "uiYineDeGonder": "Yine de gönder",
+  "uiKayitSuAnGonderiliyor": "Kayıt şu an gönderiliyor; artık kaldırılamaz.",
+  "uiEnFazlaKarakter": "En fazla {p0} karakter olabilir",
+  "@uiEnFazlaKarakter": {
+    "placeholders": {
+      "p0": {
+        "type": "String"
+      }
+    }
+  }
+}
